@@ -1,9 +1,9 @@
 package io.flutter.plugins;
 
 import io.flutter.plugin.common.PluginRegistry;
-import com.noeatsleepdev.geoflutterfire.GeoflutterfirePlugin;
 import io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestorePlugin;
 import io.flutter.plugins.firebase.core.FlutterFirebaseCorePlugin;
+import com.noeatsleepdev.geoflutterfire.GeoflutterfirePlugin;
 
 /**
  * Generated file. Do not edit.
@@ -13,9 +13,9 @@ public final class GeneratedPluginRegistrant {
     if (alreadyRegisteredWith(registry)) {
       return;
     }
-    GeoflutterfirePlugin.registerWith(registry.registrarFor("com.noeatsleepdev.geoflutterfire.GeoflutterfirePlugin"));
     FlutterFirebaseFirestorePlugin.registerWith(registry.registrarFor("io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestorePlugin"));
     FlutterFirebaseCorePlugin.registerWith(registry.registrarFor("io.flutter.plugins.firebase.core.FlutterFirebaseCorePlugin"));
+    GeoflutterfirePlugin.registerWith(registry.registrarFor("com.noeatsleepdev.geoflutterfire.GeoflutterfirePlugin"));
   }
 
   private static boolean alreadyRegisteredWith(PluginRegistry registry) {
