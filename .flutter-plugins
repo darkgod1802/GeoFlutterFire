@@ -1,6 +1,6 @@
 # This is a generated file; do not edit or check into version control.
-cloud_firestore=/Users/darkgod/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-1.0.1/
-cloud_firestore_web=/Users/darkgod/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-1.0.1/
-firebase_core=/Users/darkgod/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.0.1/
-firebase_core_web=/Users/darkgod/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.0.1/
-geoflutterfire=/Users/darkgod/Documents/ProyectosFlutter/GeoFlutterFire/
+cloud_firestore=/Users/bryanchoquecanaza/development/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-1.0.5/
+cloud_firestore_web=/Users/bryanchoquecanaza/development/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-1.0.5/
+firebase_core=/Users/bryanchoquecanaza/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.0.3/
+firebase_core_web=/Users/bryanchoquecanaza/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.0.2/
+geoflutterfire=/Users/bryanchoquecanaza/Documents/projects/fidooo/GeoFlutterFire/
